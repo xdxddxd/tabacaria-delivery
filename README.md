@@ -12,15 +12,15 @@
       <li><a href="#registro">Registro</a></li>
   <li><a href="#cadastro">Cadastrar</a></li>
   <ul>
-    <li><a href="#cadastro-usuario">Cadastrar Usuario</a></li>
-    <li><a href="#cadastro-cliente">Cadastrar Cliente</a></li>
-    <li><a href="#cadastro-produto">Cadastrar Produto</a></li>
+    <li><a href="#cadastro-usuario-">Cadastrar Usuario</a></li>
+    <li><a href="#cadastro-cliente-">Cadastrar Cliente</a></li>
+    <li><a href="#cadastro-produto-">Cadastrar Produto</a></li>
   </ul>
   <li><a href="#consultar">Cadastrar</a></li>
   <ul>
-    <li><a href="#consulta-usuario">Consultar Usuario</a></li>
-    <li><a href="#consulta-cliente">Consultar Cliente</a></li>
-    <li><a href="#consulta-produto">Consultar Produto</a></li>
+    <li><a href="#consulta-usuario-">Consultar Usuario</a></li>
+    <li><a href="#consulta-cliente-">Consultar Cliente</a></li>
+    <li><a href="#consulta-produto-">Consultar Produto</a></li>
   </ul>
     </ul>
 </ul>
