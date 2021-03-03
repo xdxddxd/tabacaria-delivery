@@ -29,26 +29,26 @@
 
 # Telas
 
-# Login
+## Login
 <img src="https://user-images.githubusercontent.com/38227342/109853318-8b2c1e00-7c34-11eb-894f-85a9a3732b09.png" alt="Tela de Login">
 
 
-# Registro
+## Registro
 <img src="https://user-images.githubusercontent.com/38227342/109853424-a1d27500-7c34-11eb-8c68-24d57bf00551.png" alt="Tela de Login">
 
-# Cadastro
+## Cadastro
 
-# Cadastro Usuario
+### Cadastro Usuario
 <img src="https://user-images.githubusercontent.com/38227342/109852132-35a34180-7c33-11eb-9d66-a9b124b82c4e.png" alt="Tela Cadastro de Usuários">
 
-# Cadastro Cliente
+### Cadastro Cliente
     //developing
     
-# Cadastro Produto
+### Cadastro Produto
 <img src="https://user-images.githubusercontent.com/38227342/109852230-5370a680-7c33-11eb-806c-66d0c25fb3c3.png" alt="Tela Cadastro de Produtos">
 
-# Consulta
+## Consulta
 
-# Consulta Usuario
+### Consulta Usuario
 
 <img src="https://user-images.githubusercontent.com/38227342/109854202-86b43500-7c35-11eb-93c7-d32b073b57ab.png" alt="Tela Consulta de Usuarios">
