@@ -34,7 +34,8 @@
 
 
 ## Registro
-<img src="https://user-images.githubusercontent.com/38227342/109853424-a1d27500-7c34-11eb-8c68-24d57bf00551.png" alt="Tela de Login">
+<img src="https://user-images.githubusercontent.com/38227342/109854655-0e9a3f00-7c36-11eb-8f9a-4a4f88d8f649.png" alt="Tela de Login">
+
 
 ## Cadastro
 
