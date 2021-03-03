@@ -38,11 +38,17 @@
 
 # Cadastro
 
-# Cadastro Usuário
+# Cadastro Usuario
 <img src="https://user-images.githubusercontent.com/38227342/109852132-35a34180-7c33-11eb-9d66-a9b124b82c4e.png" alt="Tela Cadastro de Usuários">
 
 # Cadastro Cliente
-    //telas
+    //developing
     
 # Cadastro Produto
 <img src="https://user-images.githubusercontent.com/38227342/109852230-5370a680-7c33-11eb-806c-66d0c25fb3c3.png" alt="Tela Cadastro de Produtos">
+
+# Consulta
+
+# Consulta Usuario
+
+<img src="https://user-images.githubusercontent.com/38227342/109854202-86b43500-7c35-11eb-93c7-d32b073b57ab.png" alt="Tela Consulta de Usuarios">
